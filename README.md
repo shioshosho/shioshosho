@@ -57,6 +57,9 @@
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
   </a>
+  <a href="https://cycling74.com/products/max" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Logo_Max_8_software.jpg/244px-Logo_Max_8_software.jpg" alt="max8" width="40" height="40"/>
+  </a>
 </p>
 
 <h4 align="left">Sometimes</h4>
