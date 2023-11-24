@@ -15,7 +15,7 @@
   - https://ipsj.ixsq.nii.ac.jp/ej/?action=repository_uri&item_id=222672
   - https://okayamacircuit.s3.ap-northeast-1.amazonaws.com/WebGL/index.html
 
-[![autocare-toyota - GitHub](https://gh-card.dev/repos/autocare-toyota.svg)](https://github.com/autocare-toyota/VR)
+[![autocare-toyota - GitHub](https://gh-card.dev/repos/autocare-toyota/VR.svg)](https://github.com/autocare-toyota/VR)
 
 - Virtual KIT
   - https://www.iizuka.kyutech.ac.jp/admissions/open/open2022
